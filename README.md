@@ -1,4 +1,4 @@
-[image](https://user-images.githubusercontent.com/35293088/128956343-0efcf9ed-0e77-48e3-8c88-b85aa6a4e6ea.png)
+![image](https://user-images.githubusercontent.com/35293088/128956343-0efcf9ed-0e77-48e3-8c88-b85aa6a4e6ea.png)
 
 # Polish_Companies_FinancialData_BankruptcyPrediction
 ### ABOUT THE PROJECT
